@@ -26,9 +26,10 @@ This project demonstrates a fully automated, production-ready Cloud & DevOps wor
 ## 📸 Proof of Work (Screenshots)
 
 * **CI/CD Pipeline Success:** 
-  <img width="959" height="509" alt="Screenshot 2026-10-10 120404" src="https://github.com/user-attachments/assets/d14950f9-9a1f-42c5-a818-c5079d926af7" />
+  <img width="959" height="539" alt="Screenshot 2026-10-10 113825" src="https://github.com/user-attachments/assets/2d0b6cc7-1021-43b6-9888-eecc121d96ec" />
+  
 * **Grafana Live Monitoring Dashboard:** 
-  <img width="959" height="539" alt="Screenshot 2026-10-10 113825" src="https://github.com/user-attachments/assets/325717a3-1970-40bf-818d-010468ed50db" />
+  <img width="959" height="509" alt="Screenshot 2026-10-10 120404" src="https://github.com/user-attachments/assets/d14950f9-9a1f-42c5-a818-c5079d926af7" />
 
 ## 💡 Business Value Delivered
 * Eliminated manual provisioning errors by adopting a 100% Infrastructure-as-Code approach.
