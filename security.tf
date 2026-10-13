@@ -10,7 +10,7 @@ resource "aws_security_group" "Web_sg" {
         from_port   = 22
         to_port     = 22
         protocol    = "tcp"
-        cidr_blocks = ["0.0.0.0/0"]
+        cidr_blocks = ["172.20.10.4/32"]
     }
 
     #HTTP
