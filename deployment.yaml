@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: darwin0407/my-nginx-app:latest
+        image: darwin0407/my-nginx-app:${GITHUB_SHA}
         ports:
         - containerPort: 80
